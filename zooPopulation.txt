@@ -1,0 +1,28 @@
+  New Animal Report  
+
+Hyena Habitat:
+Hye01:Shinski : Birthdate: Feb 2, 2014 : tan color : 70 pounds : from Friguia Park, Tunisia : arriving 17/03/2026
+Hye02:Breakem : Birthdate: Aug 4, 2006 : brown color : 150 pounds : from Friguia Park, Tunisia : arriving 24/11/2023
+Hye03:Ez : Birthdate: Feb 15, 2013 : black color : 120 pounds : from Friguia Park, Tunisia : arriving 12/01/2027
+Hye04:Zig : Birthdate: Jun 27 1989 : black and tan striped color : 105 pounds : from Friguia Park, Tunisia : arriving 05/01/2026
+
+Lion Habitat:
+Li01:Alex : Birthdate: Feb 18, 2007 : tan color : 300 pounds : from Zanzibar, Tanzania : arriving 09/05/2027
+Li02:Mufasa : Birthdate: Dec 14, 2007 : dark tan color : 375 pounds : from KopeLion, Tanzania : arriving 03/04/2023
+Li03:Simba : Birthdate: Aug 29, 1989 : golden color : 450 pounds : from Zanzibar, Tanzania : arriving 09/04/2024
+Li04:ace : Birthdate: Feb 4, 2010 : tan and brown color : 275 pounds : from KopeLion, Tanzania : arriving 10/01/2026
+
+Tiger Habitat:
+Tig01:Tonydatiger : Birthdate: Feb 1, 2017 : gold and tan stripes color : 270 pounds : from Dhaka, Bangladesh : arriving 22/01/2025
+Tig02:Tigger : Birthdate: Feb 15, 2015 : black stripes color : 400 pounds : from Dhaka, Bangladesh : arriving 09/12/2027
+Tig03:Amberose : Birthdate: Aug 6, 1996 : gold and tan color : 300 pounds : from Bardia, Nepal : arriving 27/02/2026
+Tig04:Cosmic : Birthdate: Feb 23, 2013 : black stripes color : 285 pounds : from Bardia, Nepal : arriving 12/03/2027
+
+Bear B Air Habitat:
+Bea01:Yogiboo : Birthdate: Feb 13, 2004 : brown color : 320 pounds : from Alaska Zoo, Alaska : arriving 24/03/2024
+Bea02:Smokeydabear : Birthdate: Feb 24, 1988 : black color : 425 pounds : from Woodland park Zoo, Washington  : arriving 03/09/2027
+Bea03:Paddington : Birthdate: Aug 22, 2011 : black color : 355 pounds : from Woodland park Zoo, Washington  : arriving 20/01/2027
+Bea04:Rupert : Birthdate: Feb 6, 2011 : brown color : 405 pounds : from Alaska Zoo, Alaska : arriving 20/08/2026
+
+Current Species Count: {hyena=4, bear=4, tiger=4, lion=4}
+Total Number of Animals: 16

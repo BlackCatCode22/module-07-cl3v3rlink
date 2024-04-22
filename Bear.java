@@ -1,46 +1,22 @@
-package dennisMohle.myZoo.com;
-
-import java.time.LocalDate;
+package ZooLanderApp;
 
 public class Bear extends Animal {
 
-    private String growlSound; // Unique field for the Bear class
-    private static int numOfBears = 0; // Static field to count the number of Bears
+    int howManyCubs;
 
-    // Constructor that includes the growlSound parameter
-    public Bear(String name, String sex, String color, String id, String origin, int weight,
-                LocalDate birthDate, LocalDate arrivalDate, String growlSound) {
-        super(name, sex, color, id, origin, weight, birthDate, arrivalDate);
-        this.growlSound = growlSound; // Initialize the unique Bear growl sound
-        numOfBears++; // Increment the count of Bears
-        System.out.println("A new Bear has been added to the zoo.");
+    public Bear(String name, int age, String gender, String birthday, String color, String weight, String habitat,
+                String id, int howManyCubs) {
+        super(name, age, "Bear", gender, birthday, color, weight, habitat, id);
+        this.howManyCubs = howManyCubs;
+
     }
 
-    // Default constructor
-    public Bear() {
-        super(); // Call the parent's default constructor
-        this.growlSound = "Grrr"; // Default growl sound
-        numOfBears++; // Increment the count of Bears
-        System.out.println("A new Bear has been added to the zoo.");
+    public int getHowManyCubs() {
+        return howManyCubs;
     }
 
-    // Getter for the growlSound
-    public String getGrowlSound() {
-        return growlSound;
+    public void setHowManyCubs(int howManyCubs) {
+        this.howManyCubs = howManyCubs;
     }
 
-    // Setter for the growlSound
-    public void setGrowlSound(String growlSound) {
-        this.growlSound = growlSound;
-    }
-
-    // Method to simulate the Bear's growl
-    public void growl() {
-        System.out.println(getName() + " says " + growlSound + "!");
-    }
-
-    // Public static getter for numOfBears
-    public static int getNumOfBears() {
-        return numOfBears;
-    }
 }
